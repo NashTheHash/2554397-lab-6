@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/a12f2302-ce9a-4edb-bf52-d7c9c6d96262/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/luckylotcarsrunstudentsover",
+    "appService.deploySubpath": "."
+}
